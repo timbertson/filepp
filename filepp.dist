@@ -1,0 +1,9 @@
+Makefile.in
+configure.in
+filepp.1.in
+filepp.in
+filepp.lsm.in
+install-sh
+tests
+mkinstalldirs
+modules
