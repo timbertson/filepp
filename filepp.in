@@ -39,9 +39,6 @@ use bytes;
 # version number of program
 my $VERSION = '@VERSION@';
 
-# list of paths to search for modules, normal Perl list + module dir
-push(@INC, "@moduledir@");
-
 # index of keywords supported and functions to deal with them
 my %Keywords = (
 		'comment' => \&Comment,
